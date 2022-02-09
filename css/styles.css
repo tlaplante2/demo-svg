@@ -1,4 +1,19 @@
 /* developer styles go here */
-section {
+
+
+/* section {
     background-image: url(../img/browser-website.svg);
+} */
+
+
+.flex-container {
+    display: flex;
+}
+
+svg {
+    fill: rgb(201, 143, 255);
+}
+
+svg:hover {
+    fill: rgb(104, 54, 138);
 }
