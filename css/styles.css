@@ -1,1 +1,4 @@
 /* developer styles go here */
+section {
+    background-image: url(../img/browser-website.svg);
+}
